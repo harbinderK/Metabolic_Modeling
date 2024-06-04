@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Read the RM file
+# Read the matrix file
 df_UDSC = pd.read_csv('matrix_data.csv')
 
 # Read the krona.proc.gd.tsv file into a DataFrame

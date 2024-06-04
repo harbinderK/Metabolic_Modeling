@@ -1,0 +1,241 @@
+0	Carbon Cycle	Calvin cycle	K01602	rbcS; ribulose-bisphosphate carboxylase small chain
+0	Carbon Cycle	Calvin cycle	K01601	rbcL; ribulose-bisphosphate carboxylase large chain
+0	Carbon Cycle	Calvin cycle	K00855	PRK, prkB; phosphoribulokinase
+0	Carbon Cycle	Citric Acid cycle	K00170	porB; pyruvate ferredoxin oxidoreductase beta subunit
+0	Carbon Cycle	Citric Acid cycle	K00174	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha
+0	Carbon Cycle	Citric Acid cycle	K03737	por, nifJ; pyruvate-ferredoxin/flavodoxin oxidoreductase
+0	Carbon Cycle	Citric Acid cycle	K00172	porG; pyruvate ferredoxin oxidoreductase gamma subunit
+0	Carbon Cycle	Citric Acid cycle	K00171	porD; pyruvate ferredoxin oxidoreductase delta subunit
+0	Carbon Cycle	Citric Acid cycle	K08691	mcl; malyl-CoA/(S)-citramalyl-CoA lyase
+0	Carbon Cycle	Citric Acid cycle	K00175	korB, oorB, oforB; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta
+0	Carbon Cycle	Citric Acid cycle	K15230	aclA; ATP-citrate lyase alpha-subunit
+0	Carbon Cycle	Citric Acid cycle	K14465	K14465; succinate semialdehyde reductase (NADPH)
+0	Carbon Cycle	Citric Acid cycle	K15231	aclB; ATP-citrate lyase beta-subunit
+0	Carbon Cycle	Citric Acid cycle	K00169	porA; pyruvate ferredoxin oxidoreductase alpha subunit
+0	Carbon Cycle	Citric Acid cycle	K00176	korD, oorD; 2-oxoglutarate ferredoxin oxidoreductase subunit delta
+0	Carbon Cycle	Citric Acid cycle	K00177	korC, oorC; 2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+0	Carbon Cycle	Dehydrogenases	hydro4g	Ni-Fe hydrogenase Group IVg
+0	Carbon Cycle	Dehydrogenases	hydro1g	Ni-Fe hydrogenase Group Ig
+0	Carbon Cycle	Dehydrogenases	hydro4c	Ni-Fe hydrogenase Group IVc
+0	Carbon Cycle	Dehydrogenases	hydro2c	Ni-Fe hydrogenase Group IIc
+0	Carbon Cycle	Dehydrogenases	hydro3a	Ni-Fe hydrogenase Group IIIa
+0	Carbon Cycle	Dehydrogenases	hydro1c	Ni-Fe hydrogenase Group Ic
+0	Carbon Cycle	Dehydrogenases	hydro3d	Ni-Fe hydrogenase Group IIId
+0	Carbon Cycle	Dehydrogenases	hydro1j	Ni-Fe hydrogenase Group Ij
+0	Carbon Cycle	Dehydrogenases	hydro1b	Ni-Fe hydrogenase Group Ib
+0	Carbon Cycle	Dehydrogenases	hydro4b	Ni-Fe hydrogenase Group IVb
+0	Carbon Cycle	Dehydrogenases	hydro2b	Ni-Fe hydrogenase Group IIb
+0	Carbon Cycle	Dehydrogenases	hydro4e	Ni-Fe hydrogenase Group IVe
+0	Carbon Cycle	Dehydrogenases	hydro2e	Ni-Fe hydrogenase Group IIe
+0	Carbon Cycle	Dehydrogenases	hydro1k	Ni-Fe hydrogenase Group Ik
+0	Carbon Cycle	Dehydrogenases	hydro1e	Ni-Fe hydrogenase Group Ie
+0	Carbon Cycle	Dehydrogenases	hydro2d	Ni-Fe hydrogenase Group IId
+0	Carbon Cycle	Dehydrogenases	hydro4d	Ni-Fe hydrogenase Group IVd
+0	Carbon Cycle	Dehydrogenases	hydro1d	Ni-Fe hydrogenase Group Id
+0	Carbon Cycle	Dehydrogenases	hydro3b	Ni-Fe hydrogenase Group IIIb
+0	Carbon Cycle	Dehydrogenases	hydro1i	Ni-Fe hydrogenase Group Ii
+0	Carbon Cycle	Dehydrogenases	hydro4i	Ni-Fe hydrogenase Group IVi
+0	Carbon Cycle	Dehydrogenases	hydro4h	Ni-Fe hydrogenase Group IVh
+0	Carbon Cycle	Dehydrogenases	hydro1h	Ni-Fe hydrogenase Group Ih
+0	Carbon Cycle	Dehydrogenases	hydro1f	Ni-Fe hydrogenase Group If
+0	Carbon Cycle	Dehydrogenases	hydro4f	Ni-Fe hydrogenase Group IVf
+0	Carbon Cycle	Dehydrogenases	hydro1a	Ni-Fe hydrogenase Group 1a
+0	Carbon Cycle	Dehydrogenases	hydro3c	Ni-Fe hydrogenase Group IIIc
+0	Carbon Cycle	Dehydrogenases	hydro4a	Ni-Fe hydrogenase Group IVa
+0	Carbon Cycle	Dehydrogenases	hydro2a	Ni-Fe hydrogenase Group IIa
+0	Carbon Cycle	Formaldehyde Assimilation -Rump	K08093	hxlA; 3-hexulose-6-phosphate synthase
+0	Carbon Cycle	Formaldehyde Assimilation -Rump	K13812	fae-hps; bifunctional enzyme Fae/Hps
+0	Carbon Cycle	Formaldehyde Assimilation -Rump	K13831	hps-phi; 3-hexulose-6-phosphate synthase / 6-phospho-3-hexuloisomerase
+0	Carbon Cycle	Formaldehyde Assimilation -Serine	K14067	mtkA; malate-CoA ligase subunit beta
+0	Carbon Cycle	Formaldehyde Assimilation -Serine	K00600	glyA, SHMT; glycine hydroxymethyltransferase
+0	Carbon Cycle	Formaldehyde Assimilation -Serine	K08692	mtkB; malate-CoA ligase subunit alpha
+0	Carbon Cycle	Formaldehyde Assimilation -Serine	K08691	mcl; malyl-CoA/(S)-citramalyl-CoA lyase
+0	Carbon Cycle	H2 formation	hydroA2	Fe-Fe hydrogenase Group A2
+0	Carbon Cycle	H2 formation	hydroA1	Fe-Fe hydrogenase Group A1
+0	Carbon Cycle	H2 formation	hydroA4	Fe-Fe hydrogenase Group A4
+0	Carbon Cycle	H2 formation	hydroA3	Fe-Fe hydrogenase Group A3
+0	Carbon Cycle	H2 formation	hydroB	Fe-Fe hydrogenase Group B
+0	Carbon Cycle	H2 formation	hydroC3	Fe-Fe hydrogenase Group C3
+0	Carbon Cycle	H2 formation	hydroC1	Fe-Fe hydrogenase Group C1
+0	Carbon Cycle	H2 formation	hydroFe	Fe-Fe hydrogenase Group Fe
+0	Carbon Cycle	H2 formation	hydroC2	Fe-Fe hydrogenase Group C2
+0	Carbon Cycle	Methanogenesis	K00672	ftr; formylmethanofuran--tetrahydromethanopterin N-formyltransferase
+0	Carbon Cycle	Methanogenesis	K14082	mtbA; [methyl-Co(III) methylamine-specific corrinoid protein]:coenzyme M methyltransferase
+0	Carbon Cycle	Methanogenesis	K14080	mtaA; [methyl-Co(III) methanol-specific corrinoid protein]:coenzyme M methyltransferase
+0	Carbon Cycle	Methanogenesis	K00197	cdhE, acsC; acetyl-CoA decarbonylase/synthase complex subunit gamma
+0	Carbon Cycle	Methanogenesis	K00194	cdhD, acsD; acetyl-CoA decarbonylase/synthase complex subunit delta
+0	Carbon Cycle	Methanogenesis	K01499	mch; methenyltetrahydromethanopterin cyclohydrolase
+0	Carbon Cycle	Methanogenesis	K10713	fae; 5,6,7,8-tetrahydromethanopterin hydro-lyase
+0	Carbon Cycle	Methanogenesis	K13812	fae-hps; bifunctional enzyme Fae/Hps
+0	Carbon Cycle	Methanogenesis	K00193	cdhC; acetyl-CoA decarbonylase/synthase complex subunit beta
+0	Carbon Cycle	Methanogenesis (core)	K00402	mcrG; methyl-coenzyme M reductase gamma subunit
+0	Carbon Cycle	Methanogenesis (core)	K00401	mcrB; methyl-coenzyme M reductase beta subunit
+0	Carbon Cycle	Methanogenesis (core)	K03421	mcrC; methyl-coenzyme M reductase subunit C
+0	Carbon Cycle	Methanogenesis (core)	K00399	mcrA; methyl-coenzyme M reductase alpha subunit
+0	Carbon Cycle	Methanotrophy	K01070	frmB, ESD, fghA; S-formylglutathione hydrolase
+0	Carbon Cycle	Methanotrophy	K00123	fdoG, fdhF, fdwA; formate dehydrogenase major subunit
+0	Carbon Cycle	Methanotrophy	K00125	fdhB; formate dehydrogenase (coenzyme F420) beta subunit
+0	Carbon Cycle	Methanotrophy	K22515	fdwB; formate dehydrogenase beta subunit
+0	Carbon Cycle	Methanotrophy	K22516	fdhA; formate dehydrogenase (coenzyme F420) alpha subunit
+0	Carbon Cycle	Methanotrophy	K00127	fdoI, fdsG; formate dehydrogenase subunit gamma
+0	Carbon Cycle	Methanotrophy	K00126	fdsD; formate dehydrogenase subunit delta
+0	Carbon Cycle	Methanotrophy	K15228	mauA; methylamine dehydrogenase light chain
+0	Carbon Cycle	Methanotrophy	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase
+0	Carbon Cycle	Methanotrophy	K00124	fdoH, fdsB; formate dehydrogenase iron-sulfur subunit
+0	Carbon Cycle	Methanotrophy	K00122	FDH; formate dehydrogenase
+0	Carbon Cycle	Methanotrophy	K15229	mauB; methylamine dehydrogenase heavy chain
+0	Carbon Cycle	Methanotrophy	K00148	fdhA; glutathione-independent formaldehyde dehydrogenase
+0	Carbon Cycle	Methanotrophy	K00153	E1.1.1.306; S-(hydroxymethyl)mycothiol dehydrogenase
+0	Carbon Cycle	Methanotrophy (core CH3OH)	K14029	mdh2, mxaI; methanol dehydrogenase (cytochrome c) subunit 2
+0	Carbon Cycle	Methanotrophy (core CH3OH)	K14028	mdh1, mxaF; methanol dehydrogenase (cytochrome c) subunit 1
+0	Carbon Cycle	Methanotrophy (core CH3OH)	K17066	MOX; alcohol oxidase
+0	Carbon Cycle	Methanotrophy (core CH3OH)	K00093	mdh; methanol dehydrogenase
+0	Carbon Cycle	Methanotrophy (core CH4)	K10944	pmoA-amoA; methane/ammonia monooxygenase subunit A
+0	Carbon Cycle	Methanotrophy (core CH4)	K16157	mmoX; methane monooxygenase component A alpha chain
+0	Carbon Cycle	Methanotrophy (core CH4)	K10945	pmoB-amoB; methane/ammonia monooxygenase subunit B
+0	Carbon Cycle	Methanotrophy (core CH4)	K16159	mmoZ; methane monooxygenase component A gamma chain
+0	Carbon Cycle	Methanotrophy (core CH4)	K16158	mmoY; methane monooxygenase component A beta chain
+0	Carbon Cycle	Methanotrophy (core CH4)	K16160	mmoB; methane monooxygenase regulatory protein B
+0	Carbon Cycle	Methanotrophy (core CH4)	K10946	pmoC-amoC; methane/ammonia monooxygenase subunit C
+0	Carbon Cycle	Methanotrophy (core CH4)	K16162	mmoD; methane monooxygenase component D
+0	Carbon Cycle	Oxidative phosphorylation	K02827,K02828	qoxB; cytochrome aa3-600 menaquinol oxidase subunit I,qoxC; cytochrome aa3-600 menaquinol oxidase subunit III
+0	Carbon Cycle	Oxidative phosphorylation	K02274,K15408	coxA, ctaD; cytochrome c oxidase subunit I,coxAC; cytochrome c oxidase subunit I+III
+0	Carbon Cycle	Oxidative phosphorylation	K02826	qoxA; cytochrome aa3-600 menaquinol oxidase subunit II
+0	Carbon Cycle	Oxidative phosphorylation	K00426	cydB; cytochrome bd ubiquinol oxidase subunit II
+0	Carbon Cycle	Oxidative phosphorylation	K02827	qoxB; cytochrome aa3-600 menaquinol oxidase subunit I
+0	Carbon Cycle	Oxidative phosphorylation	K00404	ccoN; cytochrome c oxidase cbb3-type subunit I
+0	Carbon Cycle	Oxidative phosphorylation	K02275	coxB, ctaC; cytochrome c oxidase subunit II
+0	Carbon Cycle	Oxidative phosphorylation	K00425	cydA; cytochrome bd ubiquinol oxidase subunit I
+0	Carbon Cycle	Oxidative phosphorylation	K00405	ccoO; cytochrome c oxidase cbb3-type subunit II
+0	Carbon Cycle	Oxidative phosphorylation	K02274	coxA, ctaD; cytochrome c oxidase subunit I
+0	Carbon Cycle	Oxidative phosphorylation	K02300	cyoD; cytochrome o ubiquinol oxidase subunit IV
+0	Carbon Cycle	Oxidative phosphorylation	K02257	COX10, ctaB, cyoE; heme o synthase
+0	Carbon Cycle	Oxidative phosphorylation	K02297	cyoA; cytochrome o ubiquinol oxidase subunit II
+0	Carbon Cycle	Oxidative phosphorylation	K00406	ccoP; cytochrome c oxidase cbb3-type subunit III
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K03519	coxM, cutM; aerobic carbon-monoxide dehydrogenase medium subunit
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K00194	cdhD, acsD; acetyl-CoA decarbonylase/synthase complex subunit delta
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K00192	cdhA; acetyl-CoA decarbonylase/synthase complex subunit alpha
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K03518	coxS; aerobic carbon-monoxide dehydrogenase small subunit
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K14138	acsB; acetyl-CoA synthase
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K00198	cooS, acsA; anaerobic carbon-monoxide dehydrogenase catalytic subunit
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K00193	cdhC; acetyl-CoA decarbonylase/synthase complex subunit beta
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K00195	cdhB; acetyl-CoA decarbonylase/synthase complex subunit epsilon
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K03520	coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K15022	fdhB; formate dehydrogenase (NADP+) beta subunit
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K00196	cooF; anaerobic carbon-monoxide dehydrogenase iron sulfur subunit
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K00197	cdhE, acsC; acetyl-CoA decarbonylase/synthase complex subunit gamma
+0	Carbon Cycle	Wood-Ljungdahl pathway 	K05299	fdhA; formate dehydrogenase (NADP+) alpha subunit
+0	Nitrogen Cycle	Ammonium oxidation	K10945	pmoB-amoB; methane/ammonia monooxygenase subunit B
+0	Nitrogen Cycle	Ammonium oxidation	K10535	hao; hydroxylamine dehydrogenase
+0	Nitrogen Cycle	Ammonium oxidation	K10944	pmoA-amoA; methane/ammonia monooxygenase subunit A
+0	Nitrogen Cycle	Ammonium oxidation	K10946	pmoC-amoC; methane/ammonia monooxygenase subunit C
+0	Nitrogen Cycle	Anammox	K00360	nasB; assimilatory nitrate reductase electron transfer subunit
+0	Nitrogen Cycle	Anammox	K00372	nasA; assimilatory nitrate reductase catalytic subunit
+0	Nitrogen Cycle	Anammox (core)	K20934	K20934; hydrazine synthase subunit
+0	Nitrogen Cycle	Anammox (core)	K20932	K20932; hydrazine synthase subunit
+0	Nitrogen Cycle	Anammox (core)	K20933	K20933; hydrazine synthase subunit
+0	Nitrogen Cycle	Anammox (core)	K20935	hdh; hydrazine dehydrogenase
+0	Nitrogen Cycle	DNRA (nitrate reduction)	K02567	napA; periplasmic nitrate reductase NapA
+0	Nitrogen Cycle	DNRA (nitrate reduction)	K00370	narG, narZ, nxrA; nitrate reductase / nitrite oxidoreductase, alpha subunit
+0	Nitrogen Cycle	DNRA (nitrate reduction)	K00371	narH, narY, nxrB; nitrate reductase / nitrite oxidoreductase, beta subunit
+0	Nitrogen Cycle	DNRA (nitrate reduction)	K00374	narI, narV; nitrate reductase gamma subunit
+0	Nitrogen Cycle	DNRA (nitrate reduction)	K02568	napB; cytochrome c-type protein NapB
+0	Nitrogen Cycle	DNRA (nitrite reduction)	K00363	nirD; nitrite reductase (NADH) small subunit
+0	Nitrogen Cycle	DNRA (nitrite reduction)	K03385	nrfA; nitrite reductase (cytochrome c-552)
+0	Nitrogen Cycle	DNRA (nitrite reduction)	K04015	nrfD; protein NrfD
+0	Nitrogen Cycle	DNRA (nitrite reduction)	K15876	nrfH; cytochrome c nitrite reductase small subunit
+0	Nitrogen Cycle	DNRA (nitrite reduction)	K00362	nirB; nitrite reductase (NADH) large subunit
+0	Nitrogen Cycle	Denitrifaction (nitrate reduction)	K00374	narI, narV; nitrate reductase gamma subunit
+0	Nitrogen Cycle	Denitrifaction (nitrate reduction)	K02568	napB; cytochrome c-type protein NapB
+0	Nitrogen Cycle	Denitrifaction (nitrate reduction)	K00371	narH, narY, nxrB; nitrate reductase / nitrite oxidoreductase, beta subunit
+0	Nitrogen Cycle	Denitrifaction (nitrate reduction)	K00370	narG, narZ, nxrA; nitrate reductase / nitrite oxidoreductase, alpha subunit
+0	Nitrogen Cycle	Denitrifaction (nitrate reduction)	K02567	napA; periplasmic nitrate reductase NapA
+0	Nitrogen Cycle	Denitrifaction (nitric oxide reduction)	K04561	norB; nitric oxide reductase subunit B
+0	Nitrogen Cycle	Denitrifaction (nitric oxide reduction)	K02305	norC; nitric oxide reductase subunit C
+0	Nitrogen Cycle	Denitrifaction (nitrite reduction)	K00368	nirK; nitrite reductase (NO-forming)
+0	Nitrogen Cycle	Denitrifaction (nitrite reduction)	K15864	nirS; nitrite reductase (NO-forming) / hydroxylamine reductase
+0	Nitrogen Cycle	Denitrifaction (nitrous oxide reduction)	K00376	nosZ; nitrous-oxide reductase
+0	Nitrogen Cycle	Misc. Arsenite	K08356	aoxB; arsenite oxidase large subunit
+0	Nitrogen Cycle	Misc. Arsenite	K03741	ARSC2, arsC; arsenate reductase
+0	Nitrogen Cycle	Misc. Arsenite	K08355	aoxA; arsenite oxidase small subunit
+0	Nitrogen Cycle	Misc. Chloor	K17052	clrC, serC; complex iron-sulfur molybdoenzyme family reductase subunit gamma
+0	Nitrogen Cycle	Misc. Chloor	K21647	pceA; tetrachloroethene reductive dehalogenase
+0	Nitrogen Cycle	Misc. Chloor	K17051	clrb, serB; complex iron-sulfur molybdoenzyme family reductase subunit beta
+0	Nitrogen Cycle	Misc. Chloor	K17050	clrA, serA; complex iron-sulfur molybdoenzyme family reductase subunit alpha
+0	Nitrogen Cycle	Misc. Chloor	K01560	E3.8.1.2; 2-haloacid dehalogenase
+0	Nitrogen Cycle	Misc. Chloor	K09162	cld; chlorite dismutase
+0	Nitrogen Cycle	Misc. Decaheme	UNKNOWN3	mtrB; Decaheme-associated outer membrane protein, MtrB/PioB family
+0	Nitrogen Cycle	Misc. Decaheme	UNKNOWN2	mtrC; Decaheme c-type cytochrome, OmcA/MtrC family
+0	Nitrogen Cycle	Misc. Selenium	K12527	ygfK; putative selenate reductase
+0	Nitrogen Cycle	Misc. Selenium	K17051	clrb, serB; complex iron-sulfur molybdoenzyme family reductase subunit beta
+0	Nitrogen Cycle	Misc. Selenium	K12528	xdhD; putative selenate reductase molybdopterin-binding subunit
+0	Nitrogen Cycle	Misc. Selenium	K17052	clrC, serC; complex iron-sulfur molybdoenzyme family reductase subunit gamma
+0	Nitrogen Cycle	Misc. Selenium	K12529	ygfM; putative selenate reductase FAD-binding subunit
+0	Nitrogen Cycle	Misc. Selenium	K17050	clrA, serA; complex iron-sulfur molybdoenzyme family reductase subunit alpha
+0	Nitrogen Cycle	N-compounds	K01721	nthA; nitrile hydratase subunit alpha
+0	Nitrogen Cycle	N-compounds	K01428	ureC; urease subunit alpha
+0	Nitrogen Cycle	N-compounds	K01429	ureB; urease subunit beta
+0	Nitrogen Cycle	N-compounds	K01725	cynS; cyanate lyase
+0	Nitrogen Cycle	N-compounds	K20807	nthB; nitrile hydratase subunit beta
+0	Nitrogen Cycle	N-compounds	K14048	ureAB; urease subunit gamma/beta
+0	Nitrogen Cycle	N-compounds	K01430	ureA; urease subunit gamma
+0	Nitrogen Cycle	Nitrate reduction (assimilatory)	K00372	nasA; assimilatory nitrate reductase catalytic subunit
+0	Nitrogen Cycle	Nitrate reduction (assimilatory)	K00367	narB; ferredoxin-nitrate reductase
+0	Nitrogen Cycle	Nitrate reduction (assimilatory)	K00360	nasB; assimilatory nitrate reductase electron transfer subunit
+0	Nitrogen Cycle	Nitrate reduction (assimilatory)	K10534	NR; nitrate reductase (NAD(P)H)
+0	Nitrogen Cycle	Nitrite oxidation	K02568	napB; cytochrome c-type protein NapB
+0	Nitrogen Cycle	Nitrite oxidation	K00367	narB; ferredoxin-nitrate reductase
+0	Nitrogen Cycle	Nitrite oxidation	K02567	napA; periplasmic nitrate reductase NapA
+0	Nitrogen Cycle	Nitrite oxidation	K00374	narI, narV; nitrate reductase gamma subunit
+0	Nitrogen Cycle	Nitrite oxidation	K00372	nasA; assimilatory nitrate reductase catalytic subunit
+0	Nitrogen Cycle	Nitrite oxidation	K00371	narH, narY, nxrB; nitrate reductase / nitrite oxidoreductase, beta subunit
+0	Nitrogen Cycle	Nitrite oxidation	K00360	nasB; assimilatory nitrate reductase electron transfer subunit
+0	Nitrogen Cycle	Nitrite oxidation	K00370	narG, narZ, nxrA; nitrate reductase / nitrite oxidoreductase, alpha subunit
+0	Nitrogen Cycle	Nitrite oxidation	K10534	NR; nitrate reductase (NAD(P)H)
+0	Nitrogen Cycle	Nitrite reduction (assimilatory)	K00366	nirA; ferredoxin-nitrite reductase
+0	Nitrogen Cycle	Nitrite reduction (assimilatory)	K17877	NIT-6; nitrite reductase (NAD(P)H)
+0	Nitrogen Cycle	Nitrogen fixation	K00531	anfG; nitrogenase delta subunit
+0	Nitrogen Cycle	Nitrogen fixation	K02586	nifD; nitrogenase molybdenum-iron protein alpha chain
+0	Nitrogen Cycle	Nitrogen fixation	K02591	nifK; nitrogenase molybdenum-iron protein beta chain
+0	Nitrogen Cycle	Nitrogen fixation	K02588	nifH; nitrogenase iron protein NifH
+0	Sulfur Cycle	Sulfate reduction	K00385	asrC; anaerobic sulfite reductase subunit C
+0	Sulfur Cycle	Sulfate reduction	K16951	asrB; anaerobic sulfite reductase subunit B
+0	Sulfur Cycle	Sulfate reduction	K16950	asrA; anaerobic sulfite reductase subunit A
+0	Sulfur Cycle	Sulfate reduction	K00381	cysI; sulfite reductase (NADPH) hemoprotein beta-component
+0	Sulfur Cycle	Sulfate reduction	K11180	dsrA; dissimilatory sulfite reductase alpha subunit
+0	Sulfur Cycle	Sulfate reduction	K11181	dsrB; dissimilatory sulfite reductase beta subunit
+0	Sulfur Cycle	Sulfate reduction	K00380	cysJ; sulfite reductase (NADPH) flavoprotein alpha-component
+0	Sulfur Cycle	Sulfate reduction	K00392	sir; sulfite reductase (ferredoxin)
+0	Sulfur Cycle	Sulfide oxidation I	K17218	sqr; sulfide:quinone oxidoreductase
+0	Sulfur Cycle	Sulfide oxidation II	K17219	sreA; sulfur reductase molybdopterin subunit
+0	Sulfur Cycle	Sulfide oxidation II	K17220	sreB; sulfur reductase FeS subunit
+0	Sulfur Cycle	Sulfide oxidation II	K16952	sor; sulfur oxygenase/reductase
+0	Sulfur Cycle	Sulfide oxidation II	K17221	sreC; sulfur reductase membrane anchor
+0	Sulfur Cycle	Sulfide oxidation III	K17725	ETHE1; sulfur dioxygenase
+0	Sulfur Cycle	Sulfite oxidation	K00387	SUOX; sulfite oxidase
+0	Sulfur Cycle	Sulfite oxidation	K21307	soeA; sulfite dehydrogenase (quinone) subunit SoeA
+0	Sulfur Cycle	Sulfite oxidation	K21309	soeC; sulfite dehydrogenase (quinone) subunit SoeC
+0	Sulfur Cycle	Sulfite oxidation	K21308	soeB; sulfite dehydrogenase (quinone) subunit SoeB
+0	Sulfur Cycle	Sulfite oxidation	K05301	E1.8.2.1; sulfite dehydrogenase
+0	Sulfur Cycle	Sulfite reduction	K00955	cysNC; bifunctional enzyme CysN/CysC
+0	Sulfur Cycle	Sulfite reduction	K13811	PAPSS; 3'-phosphoadenosine 5'-phosphosulfate synthase
+0	Sulfur Cycle	Sulfite reduction	K00390	cysH; phosphoadenosine phosphosulfate reductase
+0	Sulfur Cycle	Sulfite reduction	K00958	sat, met3; sulfate adenylyltransferase
+0	Sulfur Cycle	Sulfite reduction	K00394	aprA; adenylylsulfate reductase, subunit A
+0	Sulfur Cycle	Sulfite reduction	K00395	aprB; adenylylsulfate reductase, subunit B
+0	Sulfur Cycle	Sulfite reduction	K00860	cysC; adenylylsulfate kinase
+0	Sulfur Cycle	Sulfite reduction	K00956	cysN; sulfate adenylyltransferase subunit 1
+0	Sulfur Cycle	Sulfite reduction	K00957	cysD; sulfate adenylyltransferase subunit 2
+0	Sulfur Cycle	Sulfur oxidation	K16952	sor; sulfur oxygenase/reductase
+0	Sulfur Cycle	Sulfur reduction	K17230	fccA; cytochrome subunit of sulfide dehydrogenase
+0	Sulfur Cycle	Sulfur reduction	K17229	fccB; sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+0	Sulfur Cycle	Thiosulfate oxidation	K17225	soxC; sulfane dehydrogenase subunit SoxC
+0	Sulfur Cycle	Thiosulfate oxidation	K17223	soxX; sulfur-oxidizing protein SoxX
+0	Sulfur Cycle	Thiosulfate oxidation	K17224	soxB; sulfur-oxidizing protein SoxB
+0	Sulfur Cycle	Thiosulfate oxidation	K17222	soxA; sulfur-oxidizing protein SoxA
+0	Sulfur Cycle	Thiosulfate oxidation	K22622	soxD; S-disulfanyl-L-cysteine oxidoreductase SoxD
+0	Sulfur Cycle	Thiosulfate oxidation	K17226	soxY; sulfur-oxidizing protein SoxY
+0	Sulfur Cycle	Thiosulfate oxidation	K17227	soxZ; sulfur-oxidizing protein SoxZ
+0	Sulfur Cycle	Thiosulfate reduction	K08353	phsB; thiosulfate reductase electron transport protein
+0	Sulfur Cycle	Thiosulfate reduction	K08354	phsC; thiosulfate reductase cytochrome b subunit
+0	Sulfur Cycle	Thiosulfate reduction	K08352	phsA, psrA; thiosulfate reductase / polysulfide reductase chain A

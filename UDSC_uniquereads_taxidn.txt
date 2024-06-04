@@ -1,0 +1,39 @@
+name	taxID	numUniqueReads
+Pigeon pea sterility mosaic virus	191288	13
+Pigeonpea sterility mosaic virus 2	1541794	4
+Rivularia sp. PCC 7116	373994	3
+Acinetobacter johnsonii XBB1	1242245	3
+Mycoplasma arginini	2094	2
+Trichodesmium erythraeum IMS101	203124	2
+Ammonifex degensii KC4	429009	2
+'Nostoc azollae' 0708	551115	2
+[Clostridium] saccharolyticum WM1	610130	2
+Candidatus Thioglobus singularis PS1	1125411	2
+Enterobacter cloacae subsp. cloacae ENHKU01	1211025	2
+Nocardioides dokdonensis FR1436	1300347	2
+Enterobacter sp. ODB01	1827481	2
+Legionella pneumophila	446	1
+Enterobacter cloacae	550	1
+Klebsiella oxytoca	571	1
+Piscirickettsia salmonis	1238	1
+Raoultella ornithinolytica	54291	1
+Oscillatoria acuminata PCC 6304	56110	1
+Nostoc punctiforme PCC 73102	63737	1
+Leclercia adecarboxylata	83655	1
+Stanieria cyanosphaera PCC 7437	111780	1
+Thermosynechococcus elongatus BP-1	197221	1
+Verrucosispora maris AB-18-032	263358	1
+Thermomicrobium roseum DSM 5159	309801	1
+Polaribacter sp. MED152	313598	1
+Enterobacter sp. 638	399742	1
+Halorubrum lacusprofundi ATCC 49239	416348	1
+Ralstonia pickettii 12D	428406	1
+Kocuria flava	446860	1
+Halogeometricum borinquense DSM 11551	469382	1
+Luteipulveratus mongoliensis	571913	1
+Vibrio tasmaniensis LGP32	575788	1
+Thermaerobacter marianensis DSM 12885	644966	1
+Flexistipes sinusarabici DSM 4947	717231	1
+Comamonas testosteroni P19	1191062	1
+Wenyingzhuangia fucanilytica	1790137	1
+Lachnoclostridium sp. YL32	1834196	1

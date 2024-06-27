@@ -53,9 +53,11 @@ The script generates a TSV file named mapped_krona.proc.gd.tsv with updated 'Sum
 
 ## Acknowledgments
 
-- KEGG API
+- KEGG API: "Kanehisa, M., Furumichi, M., Sato, Y., Kawashima, M. and Ishiguro-Watanabe, M.; KEGG for taxonomy-based analysis of pathways and genomes. Nucleic Acids Res. 51, D587-D592 (2023)".
 - Pandas Library
 - Requests Library
+- Metascan: "Cremers G, Jetten MSM, Op den Camp HJM and Lücker S (2022) Metascan: METabolic Analysis, SCreening and ANnotation of Metagenomes. Front. Bioinform. 2:861505. doi: 10.3389/fbinf.2022.861505".
+- Krona Visualization Tool: "Ondov, B.D., Bergman, N.H. & Phillippy, A.M. Interactive metagenomic visualization in a Web browser. BMC Bioinformatics 12, 385 (2011). https://doi.org/10.1186/1471-2105-12-385".
 
 Contact
 For any questions or feedback, please contact harbin27_sit@jnu.ac.in.
